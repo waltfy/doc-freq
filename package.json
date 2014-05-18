@@ -1,0 +1,32 @@
+{
+  "name": "doc-freq",
+  "version": "0.0.1",
+  "description": "Calculate how many documents contain a certain term, within a list (`Array`) of text documents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:waltervascarvalho/doc-freq.git"
+  },
+  "keywords": [
+    "document",
+    "frequency",
+    "corpus",
+    "word",
+    "nlp"
+  ],
+  "author": "Walter Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waltervascarvalho/doc-freq/issues"
+  },
+  "homepage": "https://github.com/waltervascarvalho/doc-freq",
+  "devDependencies": {
+    "tap": "^0.4.9"
+  },
+  "dependencies": {
+    "word-freq": "0.x.x"
+  }
+}
