@@ -2,6 +2,8 @@ doc-freq
 ========
 [![Build Status](https://travis-ci.org/waltervascarvalho/doc-freq.svg?branch=master)](https://travis-ci.org/waltervascarvalho/doc-freq)
 
+[![Gitter chat](https://badges.gitter.im/waltervascarvalho/doc-freq.png)](https://gitter.im/waltervascarvalho/doc-freq)
+
 Calculate how many documents contain a certain term, within a list (`Array`) of text documents (`String`).
 
 ## Version
